@@ -157,26 +157,24 @@ In Colab, open the 🔑 **Secrets** panel, add each secret below and switch **No
 - [x] Search the notebook for your real email address, JWT secret, ngrok token and admin password
 
 ---
-
 ## Screenshots
 
 ### 1. Login Page
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ### 2. User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](user-dashboard.png)
 
 ### 3. Forgot Password
-![Forgot Password](screenshots/forgot-password.png)
+![Forgot Password](forget-password.png)
 
 ### 4. Create Account
-![Create Account](screenshots/create-account.png)
+![Create Account](create-account.png)
 
 ### 5. Admin Login
-![Admin Login](screenshots/admin-login.png)
+![Admin Login](admin-login.png)
 
 ### 6. Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
+![Admin Dashboard](admin-dashboard.png)
 
 
