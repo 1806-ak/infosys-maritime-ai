@@ -202,6 +202,20 @@ This project demonstrates practical implementation of:
 **Interface:** Streamlit  
 **Database:** SQLite
 
+## 📸 Project Screenshots
+
+### 1. Login Page
+![Infosys Portal Login](screenshots/login.png)
+
+### 2. Signup Page
+![Infosys Portal Signup](screenshots/signup.png)
+
+### 3. Password Recovery
+![Infosys Portal Password Recovery](screenshots/forgot-password.png)
+
+### 4. Analytics Dashboard
+![Infosys Portal Dashboard](screenshots/dashboard.png)
+
 ## 📄 License
 
 Add a license file if you intend to distribute this project publicly. If this project was developed as part of an internship or academic program, follow the applicable project and organization guidelines.
