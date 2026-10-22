@@ -205,17 +205,15 @@ This project demonstrates practical implementation of:
 ## 📸 Project Screenshots
 
 ### 1. Login Page
-![Infosys Portal Login](screenshots/login.png)
+![Infosys Portal Login](login.png)
 
 ### 2. Signup Page
-![Infosys Portal Signup](screenshots/signup.png)
+![Infosys Portal Signup](signup.png)
 
 ### 3. Password Recovery
-![Infosys Portal Password Recovery](screenshots/forgot-password.png)
+![Infosys Portal Password Recovery](forgot-password.png)
 
 ### 4. Analytics Dashboard
-![Infosys Portal Dashboard](screenshots/dashboard.png)
-
-## 📄 License
+![Infosys Portal Dashboard](dashboard.png)
 
 Add a license file if you intend to distribute this project publicly. If this project was developed as part of an internship or academic program, follow the applicable project and organization guidelines.
