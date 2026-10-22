@@ -174,6 +174,7 @@ In Colab, open the 🔑 **Secrets** panel, add each secret below and switch **No
 ### 5. Admin Login
 ![Admin Login](admin-login.png)
 
+### 6. Admin Dashboard
 ![Admin Dashboard](./admin-dashboard.png)
 
 
